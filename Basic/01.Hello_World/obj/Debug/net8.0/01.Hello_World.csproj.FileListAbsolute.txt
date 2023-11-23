@@ -1,0 +1,15 @@
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\bin\Debug\net8.0\01.Hello_World.exe
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\bin\Debug\net8.0\01.Hello_World.deps.json
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\bin\Debug\net8.0\01.Hello_World.runtimeconfig.json
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\bin\Debug\net8.0\01.Hello_World.dll
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\bin\Debug\net8.0\01.Hello_World.pdb
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.AssemblyInfoInputs.cache
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.AssemblyInfo.cs
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.csproj.CoreCompileInputs.cache
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.sourcelink.json
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.dll
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\refint\01.Hello_World.dll
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.pdb
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\01.Hello_World.genruntimeconfig.cache
+C:\msys64\home\imlim\documents\C_sharp\Basic\01.Hello_World\obj\Debug\net8.0\ref\01.Hello_World.dll
